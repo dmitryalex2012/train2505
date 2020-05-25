@@ -14,7 +14,10 @@ $this->title = 'My Yii Application';
 
         <p class="lead">You have successfully created your Yii-powered application.</p>
 
-        <?=   Html::a('Curtains', ['curtains/index'], ['class' => 'btn btn-lg btn-success']);
+        <?=     Html::a('Curtains', ['curtains/index'], ['class' => 'btn btn-lg btn-success']);
+        ?>
+
+        <?=     Html::a('New curtains', ['curtains/index'], ['class' => 'btn btn-lg btn-success']);
         ?>
 
     </div>
