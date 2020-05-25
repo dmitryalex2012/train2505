@@ -24,7 +24,7 @@ $this->title = 'My Yii Application';
 
         <br>
         <label>Branch: "make New Buttons"</label>
-        <label>Branch: "master branch 15:46"</label>
+        <label>Branch: "master branch 15:48"</label>
 
     </div>
 
