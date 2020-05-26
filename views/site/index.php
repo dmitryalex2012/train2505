@@ -21,6 +21,7 @@ $this->title = 'My Yii Application';
         ?>
 
         <label>Master</label>
+        <label>Branch</label>
 
     </div>
 
