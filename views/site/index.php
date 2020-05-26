@@ -19,8 +19,8 @@ $this->title = 'My Yii Application';
 
         <?=     Html::a('New curtains', ['curtains/index'], ['class' => 'btn btn-lg btn-success']);
         ?>
-
         <label>Master</label>
+        <label>Branch</label>
 
     </div>
 
