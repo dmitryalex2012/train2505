@@ -20,10 +20,10 @@ $this->title = 'My Yii Application';
         <br>
         <br>
 
-        <label>Branch: master</label>
+        <label>Branch: third</label>
         <br>
 
-        <label>Time: 15:10</label>
+        <label>Time: 15:13</label>
 
 
     </div>
