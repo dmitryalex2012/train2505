@@ -23,7 +23,7 @@ $this->title = 'My Yii Application';
         <label>Branch: slave</label>
         <br>
 
-        <label>Time: 15:09</label>
+        <label>Time: 15:51</label>
 
 
     </div>
