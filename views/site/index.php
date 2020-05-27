@@ -17,13 +17,10 @@ $this->title = 'My Yii Application';
         <?=     Html::a('Curtains', ['curtains/index'], ['class' => 'btn btn-lg btn-success']);
         ?>
 
-        <?=     Html::a('New curtains', ['curtains/index'], ['class' => 'btn btn-lg btn-success']);
-        ?>
-        <label>Master</label>
-        <label>Branch</label>
-
         <br>
-        <label>Branch: "make New Buttons"</label>
+        <br>
+
+        <label>Branch: master 13:41</label>
 
     </div>
 
